@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Deutsch</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="list">
+        <item>Ленин</item>
+        <item>Сталин</item>
+        <item>Троцкий</item>
+    </string-array>
+    <string name="menu_item">Важно</string>
+    <string name="Message">Сообщение 1</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+</resources>
